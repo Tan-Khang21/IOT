@@ -7,9 +7,6 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-/***************** WIFI *****************/
-char ssid[] = "Your_WiFi_Name";
-char pass[] = "Your_WiFi_Password";
 
 /***************** LCD *****************/
 #include <LiquidCrystal_I2C.h>
