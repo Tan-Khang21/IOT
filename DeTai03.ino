@@ -15,7 +15,9 @@ LiquidCrystal_I2C lcd(0x27, 20, 4);
 #define DHTPIN 14
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
-
+// ---------------- Cấu hình Blynk & WiFi ----------------
+#define WIFI_SSID  "Galaxy s23"
+#define WIFI_PASS  "12345678"
 /***************** PIN *****************/
 #define LED_PIN     2
 #define BUTTON_PIN  23
