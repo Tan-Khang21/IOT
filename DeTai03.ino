@@ -1,4 +1,6 @@
-
+#define BLYNK_AUTH_TOKEN "mu7MieemKvOaf-V7BKl_CbbPoEXp1N_s"
+#define BLYNK_TEMPLATE_ID "TMPL6JWidIiTE"
+#define BLYNK_TEMPLATE_NAME "Dk Led"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
