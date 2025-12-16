@@ -1,8 +1,4 @@
-/***************** BLYNK *****************/
-#define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "YourTemplateID"
-#define BLYNK_TEMPLATE_NAME "Smart Light"
-#define BLYNK_AUTH_TOKEN "YourAuthToken"
+
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
