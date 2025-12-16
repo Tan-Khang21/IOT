@@ -1,7 +1,6 @@
-/*************************
- *  IOT GIAM SAT KHONG KHI
- *  ESP32 + MQ + DHT + LCD + BLYNK
- *************************/
+#define BLYNK_AUTH_TOKEN "mu7MieemKvOaf-V7BKl_CbbPoEXp1N_s"
+#define BLYNK_TEMPLATE_ID "TMPL6JWidIiTE"
+#define BLYNK_TEMPLATE_NAME "Dk Led"
 
 #define BLYNK_PRINT Serial
 
